@@ -1,0 +1,19 @@
+{
+  "name": "web3-testxnianq",
+  "version": "1.0.0",
+  "description": "web3-testxnianq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xnianq/web3-testxnianq.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xnianq/web3-testxnianq/issues"
+  },
+  "homepage": "https://github.com/xnianq/web3-testxnianq#readme"
+}
